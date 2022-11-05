@@ -1,7 +1,7 @@
 export default () => ({
   isLoading: true,
   entries: [
-    {
+    /*{
       id: '1',
       date: new Date().toDateString(),
       text: 'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.',
@@ -18,6 +18,6 @@ export default () => ({
       date: new Date().toDateString(),
       text: 'All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.',
       picture: null
-    }
+    }*/
   ]
 })
