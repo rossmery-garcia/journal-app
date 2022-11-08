@@ -1,8 +1,16 @@
-# journal-app
+# Journal App
 
 ## Project setup
+1. Install dependencies
 ```
 yarn install
+```
+2. Add environment variables
+```
+VUE_APP_FIREBASE_API_BASE_URL
+VUE_APP_CLOUDINARY_UPLOAD_PRESET
+VUE_APP_CLOUDINARY_CLOUD_NAME
+VUE_APP_CLOUDINARY_API_BASE_URL
 ```
 
 ### Compiles and hot-reloads for development
