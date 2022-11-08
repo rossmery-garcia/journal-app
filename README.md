@@ -1,5 +1,9 @@
 # Journal App
 
+## Resources required
+1. Create [Firebase](https://console.firebase.google.com/) project
+2. Create Realtime Database in Firebase project
+3. Create account [Cloudinary](https://cloudinary.com/)
 ## Project setup
 1. Install dependencies
 ```
